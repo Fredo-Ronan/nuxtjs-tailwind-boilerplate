@@ -1,6 +1,8 @@
-# Nuxt Minimal Starter
+# Nuxt Minimal Starter + Tailwind CSS Boilerplate
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Made by [Fredo Ronan](https://fredo-code.vercel.app)
+
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about Nuxt JS.
 
 ## Setup
 
