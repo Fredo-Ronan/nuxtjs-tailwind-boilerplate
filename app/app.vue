@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-bold">Nuxt JS + Tailwind CSS boilerplate</h1>
       <p class="text-lg">
         Made by
-        <nuxt-link href="https://fredo-code.vervel.app" target="_blank" class="underline">Fredo Ronan</nuxt-link>
+        <nuxt-link href="https://fredo-code.vercel.app" target="_blank" class="underline">Fredo Ronan</nuxt-link>
       </p>
       <p class="mt-6">
         Edit file
