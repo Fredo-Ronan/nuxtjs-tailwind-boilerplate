@@ -1,0 +1,8 @@
+# disable or enable SSR
+ssr=true
+
+devtools.enabled=true
+
+# nuxt modules
+modules[]=@nuxtjs/tailwindcss
+modules[]=@nuxt/eslint

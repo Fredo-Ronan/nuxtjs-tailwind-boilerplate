@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter + Tailwind CSS Boilerplate
+# Nuxt Minimal Starter + Tailwind CSS + Prisma Boilerplate
 
 Made by [Fredo Ronan](https://fredo-code.vercel.app)
 
